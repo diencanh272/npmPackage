@@ -1,6 +1,6 @@
 {
     "name": "npmpackage",
-    "author": "Jane",
+    "author": "jane",
     "version": "1.0.0",
     "description": "init package",
     "main": "index.js",
